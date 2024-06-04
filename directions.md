@@ -35,6 +35,7 @@
 
 1. [random choice () method to randomly select list item](https://pynative.com/python-random-choice/#h-random-choice-function-to-select-a-random-element-from-a-list-in-python)
 2. [Python random choice () method](https://www.w3schools.com/python/ref_random_choice.asp)
+3. [Python len() function](https://www.w3schools.com/python/ref_func_len.asp)
 
 ## Directions
 
