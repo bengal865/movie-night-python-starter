@@ -1,4 +1,4 @@
-﻿# Practice: Python Movie Night Picker
+# Practice: Python Movie Night Picker
 
 ## Overview:
 
@@ -14,8 +14,7 @@
 
 ## Sample Output
 
-Your output should look similar to the example below:
-![New Mexico desert landscape](nm-desert1.jpg)
+![sample output](movies-output.png)
 
 ## General Requirements
 
@@ -34,12 +33,19 @@ Your output should look similar to the example below:
 
 ## Resources:
 
-- [Resource 1](https://www.nytimes.com/)
-- [Resource 2](https://www.nytimes.com/)
-- Reading assignment
+1. [random choice () method to randomly select list item](https://pynative.com/python-random-choice/#h-random-choice-function-to-select-a-random-element-from-a-list-in-python)
+2. [Python random choice () method](https://www.w3schools.com/python/ref_random_choice.asp)
 
 ## Directions
 
-    - Step 1
-    - Step 2
-    - Step 3
+- Use the keyword `import` to import the Python `random` module into your script   
+
+- Define a Python list `genres` and add at least four movie genres to it, e.g., comedy, action, romance, etc.   
+
+- Use the Python `random.choice()` method to randomly select a genre from your list of movie genres; save the randomly selected genre to a variable named `genre`   
+
+- Print the randomly selected movie genre   
+
+- Next, use the `remove()` method to remove the randomly selected genre from your list of movie genres   
+
+- Use an `if-else` statement to first check if the list is empty; if the list is empty, tell the user the movie genres list is empty and that the movie genre can't be removed from an empty list; otherwise, remove the randomly selected genre from the list and let the user know which genre was removed from the list
