@@ -5,6 +5,8 @@
 > *Students will be able to use the `random` module and the `random.choice()` method to randomly select a movie genre from a list of movie genres*
 >
 > *Students will also be able to use the `remove()` method to remove the randomly selected genre from the movie genres list*
+>
+> *Students will be able to use an `if-else` statement and the Python `len()` function to determine whether a list is empty or not
 
 ## Submitting Your Work:
 
