@@ -10,7 +10,7 @@
 
 ## Submitting Your Work:
 
-> Save your files to a GitHub repo named: ***repo-test***
+> Save your files to a GitHub repo named: ***movie-night-picker***
 
 ## Sample Output
 
