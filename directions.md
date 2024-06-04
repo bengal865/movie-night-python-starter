@@ -1,8 +1,10 @@
-﻿# Practice: Lesson Title
+﻿# Practice: Python Movie Night Picker
 
 ## Overview:
 
-> *Students will be able to*
+> *Students will be able to use the `random` module and the `random.choice()` method to randomly select a movie genre from a list of movie genres*
+>
+> *Students will also be able to use the `remove()` method to remove the randomly selected genre from the movie genres list*
 
 ## Submitting Your Work:
 
