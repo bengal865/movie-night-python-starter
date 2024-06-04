@@ -12,10 +12,6 @@
 
 > Save your files to a GitHub repo named: ***movie-night-picker***
 
-## Sample Output
-
-![sample output](movies-output.png)
-
 ## General Requirements
 
 - Add a comment block to the top of your script
